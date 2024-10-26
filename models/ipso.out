@@ -1,0 +1,6655 @@
+iris
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.5587530954410749
+time	12.112041s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	13.707483s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.933453616041692
+time	14.246736s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.698426604684427
+time	15.576733s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.958371460525647
+time	14.814910s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	15.795227s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	14.314032s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	14.080555s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9417023172905525
+time	13.635267s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	13.714186s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9500457875457875
+time	13.874598s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	13.649821s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.8996336996336995
+time	14.043316s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	13.738003s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	13.656626s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.925
+time	13.594003s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.8888144895963126
+time	13.862878s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.8761443943122416
+time	13.886378s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.7949040187244858
+time	13.825777s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	13.782735s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9666971916971918
+time	13.594365s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	14.054684s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.958371460525647
+time	14.177341s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.4082987032124963
+time	13.699452s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9666869918699188
+time	13.215263s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9666971916971918
+time	13.511782s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	13.433984s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	13.358669s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	13.457355s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	13.417722s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.8344927536231883
+time	13.261187s
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.8257361789357325
+time	13.269315s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	13.497999s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	13.160054s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9666869918699188
+time	13.146135s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9415421178384422
+time	13.426348s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	13.232072s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.95
+time	13.097051s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	13.197089s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.8167735042735043
+time	13.311278s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	13.486449s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9416666666666667
+time	13.446578s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.645787037037037
+time	13.186161s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	13.723923s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	13.320180s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	13.256699s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	13.434725s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	13.557860s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	13.643212s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	13.514859s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9666869918699188
+time	13.254921s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	13.295719s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	13.236816s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	13.450671s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.8484921225245583
+time	13.435315s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.8267048564462356
+time	13.500775s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9500457875457875
+time	13.269639s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	13.188765s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	13.550198s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.0658291976840366
+time	13.664638s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.8905708812260538
+time	13.375534s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	13.180979s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.0502101313320824
+time	13.537446s
+topology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9417200447359058
+time	13.546005s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.6981538461538463
+time	13.540104s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	13.363471s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9666869918699188
+time	13.248241s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9666971916971918
+time	13.239718s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	13.293756s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	13.143363s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.06249173553719
+time	13.324754s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.858487929788771
+time	13.550214s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9416666666666667
+time	13.514821s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	13.500705s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.90862553786673
+time	13.356812s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	13.536503s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	13.578691s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.86922077166184
+time	13.514605s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9156971805294976
+time	13.390997s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	13.310019s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	13.433607s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.6977395121643881
+time	13.330615s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	13.316993s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	13.366363s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9417200447359058
+time	13.452558s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9583587980646804
+time	13.410514s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	13.181849s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	13.145536s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.0641563477173233
+time	13.398220s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.950030487804878
+time	13.437653s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.4779042716542716
+time	13.688839s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.286053459119497
+time	13.762042s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	13.575860s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	13.319844s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	13.278515s
+topology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	13.121848s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.958371460525647
+time	13.210029s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.8317942051898495
+time	13.487267s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.949954268292683
+time	13.150527s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	13.727943s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.0702806944732655
+time	13.467389s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.958371460525647
+time	13.313653s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.054730452674897
+time	13.513212s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9253864734299517
+time	13.355213s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	13.459403s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9416666666666667
+time	13.510285s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	13.387681s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	13.150486s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	13.430349s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9666971916971918
+time	13.223351s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	13.296951s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.8591552891552892
+time	13.264727s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	13.431690s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	13.226797s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9415421178384422
+time	13.318273s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.0702806944732655
+time	13.178524s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	13.607627s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	13.534861s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9332723577235773
+time	13.827003s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9415421178384422
+time	13.341544s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.0641563477173233
+time	13.343491s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9254119381612989
+time	13.219709s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9
+time	13.196768s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9666971916971918
+time	13.472590s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.8011251167133522
+time	13.449277s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.8500508130081301
+time	14.048008s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9583333333333333
+time	13.291649s
+topology: [5]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	13.222694s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.7875230484714013
+time	53.719825s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.950030487804878
+time	52.919148s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9666869918699188
+time	53.315614s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9500123834812182
+time	53.888897s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	53.788933s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.958371460525647
+time	53.542554s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9666904122600326
+time	53.563728s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	53.589877s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	53.254524s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9666971916971918
+time	53.734019s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9583333333333333
+time	53.126784s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	53.241383s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	53.228697s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.541215277777778
+time	53.258833s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.983348595848596
+time	53.312714s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9666971916971918
+time	53.544105s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9666869918699188
+time	53.218778s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	52.540367s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	52.645953s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	53.240546s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	52.873757s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.933089133089133
+time	53.628814s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9583333333333333
+time	52.901354s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9666869918699188
+time	52.892303s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	54.005120s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	54.070768s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	53.052346s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	53.723508s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.9666971916971918
+time	53.108932s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.958371460525647
+time	53.530572s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	53.286344s
+topology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	54.071196s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	53.567144s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	53.204042s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	53.335820s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	53.997123s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.8833333333333333
+time	53.674922s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9416666666666667
+time	53.661753s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9666971916971918
+time	53.094697s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	53.202991s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	53.057444s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9333739837398376
+time	53.162086s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9666869918699188
+time	54.606510s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	53.585091s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	53.310522s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9666971916971918
+time	53.016732s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.79686391986392
+time	52.999065s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9337550607287448
+time	53.419769s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.983348595848596
+time	53.409180s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.949954268292683
+time	52.953850s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	52.616545s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	53.766429s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	53.128902s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	53.549547s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	54.386945s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	53.294269s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	53.362375s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.983348595848596
+time	53.474937s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9415421178384422
+time	53.760119s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	53.446849s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.958371460525647
+time	54.028814s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9666869918699188
+time	54.079374s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	52.643517s
+topology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.958371460525647
+time	53.751877s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	54.268401s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	53.628229s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	53.536641s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	53.031679s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.983348595848596
+time	53.631290s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9500457875457875
+time	54.214234s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	53.211393s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9500457875457875
+time	53.612820s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.8671141157063744
+time	53.319537s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	53.711283s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9583333333333333
+time	53.173207s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.950030487804878
+time	53.242769s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	53.291550s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.7203117475653709
+time	53.245898s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	53.408011s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	54.018137s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	53.644002s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	53.578103s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	53.280739s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	55.054495s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	53.719399s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9666869918699188
+time	53.161866s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	53.147289s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	52.766026s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	52.500882s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	53.204529s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	53.966314s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	52.974584s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.8240821396589277
+time	54.219709s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.983348595848596
+time	53.993628s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	53.302316s
+topology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	53.034190s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	53.907809s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	53.380570s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9666869918699188
+time	53.834769s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9583333333333333
+time	54.169180s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	53.679499s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	53.897766s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9583333333333333
+time	53.257509s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	53.400680s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9666869918699188
+time	53.381954s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	53.510379s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9750152788388085
+time	53.119175s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	53.486310s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	52.793115s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	53.327878s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.8497169938237632
+time	53.172990s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9833333333333334
+time	53.372873s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9583595420643614
+time	52.821305s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9333739837398376
+time	53.902194s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	53.007992s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	53.649394s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9666971916971918
+time	52.694795s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	54.502708s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.983348595848596
+time	53.717760s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.8514901034637876
+time	53.195134s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.8516814204314205
+time	53.460688s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	53.549597s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.6644276274561134
+time	53.074478s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.958752220879592
+time	54.261328s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	53.031417s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	52.927539s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.8981370135958744
+time	53.047342s
+topology: [5]
+num_particles 64
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.958371460525647
+time	54.110963s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9666971916971918
+time	59.984974s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	59.982324s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	59.865172s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9666971916971918
+time	60.571134s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9666971916971918
+time	59.433272s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	60.279605s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	60.299604s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.983348595848596
+time	60.657394s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	60.000751s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9500457875457875
+time	59.577765s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9418083372450843
+time	60.844523s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	60.311135s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	59.791924s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	60.129481s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	59.802768s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	59.136819s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9666869918699188
+time	60.765836s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	59.773976s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9666971916971918
+time	60.772529s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	60.703148s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	60.444081s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	59.707641s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.958371460525647
+time	59.987648s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9666971916971918
+time	60.202711s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	60.336204s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	59.981226s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.958371460525647
+time	60.058978s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	60.501294s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.958371460525647
+time	59.319062s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.950030487804878
+time	59.978818s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	60.177639s
+topology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9666869918699188
+time	60.407534s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	59.803243s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	59.933068s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	60.884037s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	59.663194s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	60.302492s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.958371460525647
+time	59.804192s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	60.210418s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	59.499187s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750152788388085
+time	59.145366s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.958371460525647
+time	60.877232s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	60.539960s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	60.319698s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	60.203905s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.459293623309428
+time	60.863957s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.949954268292683
+time	60.035448s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	60.271201s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9666869918699188
+time	60.585805s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	60.118719s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	59.738315s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.983348595848596
+time	60.426176s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9666971916971918
+time	59.972245s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9666971916971918
+time	59.760487s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.983348595848596
+time	61.124997s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.983348595848596
+time	60.170223s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	59.714452s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	59.606475s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	59.793302s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9916717596129363
+time	59.825513s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	59.695657s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9666869918699188
+time	59.698318s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	59.244933s
+topology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9666971916971918
+time	60.684722s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9666971916971918
+time	60.122736s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.8549293516940577
+time	60.394991s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	59.772810s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	60.130861s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9003254978201958
+time	59.884211s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9666869918699188
+time	59.620232s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	60.466602s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9083333333333332
+time	60.879562s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.8499783252690825
+time	59.928004s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	60.145059s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	60.626480s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	60.223256s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	60.619419s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9333739837398376
+time	61.141507s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.950030487804878
+time	60.892354s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.6213690476190477
+time	59.971678s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	61.039331s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	59.599949s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9253481592537065
+time	59.790246s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	59.814157s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	60.129425s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	59.374346s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.88364358725109
+time	59.600449s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	60.184083s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.983348595848596
+time	60.836379s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	60.144072s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	60.136722s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	60.396427s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	60.124222s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9583333333333333
+time	59.840292s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	60.360402s
+topology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.958371460525647
+time	60.770905s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	59.920207s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	60.765920s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	60.390016s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9500457875457875
+time	59.451514s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	59.124386s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	60.196831s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.8583196220626539
+time	59.808083s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	59.884340s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	60.491453s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	60.477061s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	59.583080s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	60.024837s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	59.846257s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9666869918699188
+time	59.596416s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9750152788388085
+time	60.316332s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9666971916971918
+time	60.080815s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	60.163012s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	59.294272s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9666869918699188
+time	59.665839s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	60.005816s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	59.622942s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	60.140654s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9666971916971918
+time	61.044332s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.983348595848596
+time	60.017561s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.949954268292683
+time	59.675504s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	59.475587s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	59.840345s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	60.292567s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	59.875424s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	61.100230s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	60.525038s
+topology: [5]
+num_particles 72
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	59.574285s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.8055599764220456
+time	66.730253s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	66.109327s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	67.506929s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.983348595848596
+time	66.559816s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.983348595848596
+time	67.136185s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	67.305099s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	66.464977s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.958371460525647
+time	67.025947s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9666971916971918
+time	67.249988s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9916717596129363
+time	66.545409s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	67.026469s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	66.636556s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	68.003298s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	66.769402s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.958371460525647
+time	67.656178s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	67.185934s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9666971916971918
+time	67.555725s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	67.243771s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	66.930401s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9666971916971918
+time	66.735542s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	67.016388s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	66.208100s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	66.660907s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9666869918699188
+time	66.441633s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9332723577235773
+time	66.038675s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	66.770317s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	66.114224s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.958371460525647
+time	66.541163s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	66.643724s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	67.387083s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.958371460525647
+time	66.473101s
+topology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	65.701594s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.958371460525647
+time	66.668909s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	66.126093s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	66.637035s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	66.815811s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	66.990094s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9583333333333333
+time	67.422889s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9666971916971918
+time	66.668756s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9666869918699188
+time	66.058652s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9583587980646804
+time	65.578798s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.8999085365853658
+time	66.383276s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9416666666666667
+time	65.832146s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	66.494593s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	66.231300s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	66.161797s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.983348595848596
+time	66.989237s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	66.684912s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.958371460525647
+time	66.938719s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9583595420643614
+time	65.243475s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	65.782239s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	66.987154s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9916717596129363
+time	66.967685s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	66.971348s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.775
+time	66.973931s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.860041757093481
+time	66.080860s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	66.224979s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9666971916971918
+time	66.288132s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9250686289461643
+time	66.339437s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9916717596129363
+time	66.839518s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	67.060971s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	66.290325s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	67.381534s
+topology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	66.437330s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9916717596129363
+time	65.750825s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	66.472921s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9666869918699188
+time	66.643275s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	67.685108s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.983348595848596
+time	67.866940s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.950030487804878
+time	67.224118s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9500457875457875
+time	65.956361s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9332723577235773
+time	66.249650s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.983348595848596
+time	67.234276s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	66.213448s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	67.440836s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	66.737522s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.983348595848596
+time	66.603942s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.983348595848596
+time	66.719939s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	66.670996s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.983348595848596
+time	66.203981s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.8829623641941335
+time	66.369871s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9500457875457875
+time	66.828816s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	66.731168s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	67.579900s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	66.128724s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	67.370430s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	67.455025s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9500457875457875
+time	66.607877s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9666869918699188
+time	67.711119s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	67.060411s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	66.274463s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9916717596129363
+time	66.864755s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.5646759941089838
+time	67.018664s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.958371460525647
+time	66.637136s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	66.839054s
+topology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.5448705808080807
+time	66.633298s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	66.920084s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.958371460525647
+time	67.486704s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	66.210352s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	66.739727s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	67.086852s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	67.085768s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9666971916971918
+time	68.118493s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	67.109863s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9167174796747966
+time	67.131000s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9500457875457875
+time	67.140913s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9583333333333333
+time	67.095181s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	66.768212s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	66.772087s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	67.088196s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.949954268292683
+time	67.588698s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	66.498244s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	66.922279s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	67.059010s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	67.254264s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.8823286623484752
+time	66.834459s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9419200245042942
+time	66.549877s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	67.308601s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.958371460525647
+time	66.730905s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	66.820681s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	67.091953s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.4854820642320643
+time	66.104763s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	67.071255s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	66.467155s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.9666971916971918
+time	66.377425s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9666869918699188
+time	66.955761s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	66.313508s
+topology: [5]
+num_particles 80
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	67.469999s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9416414108826032
+time	72.421613s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	72.827788s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	72.691128s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	72.801099s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9666971916971918
+time	72.748879s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9666971916971918
+time	73.665763s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	73.541449s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	74.580205s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	73.236995s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	73.824255s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	74.119320s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.958371460525647
+time	73.859677s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9583587980646804
+time	73.491834s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.983348595848596
+time	73.367191s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9415421178384422
+time	72.814961s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9666869918699188
+time	73.754814s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	73.774449s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	74.156462s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	73.312355s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	73.098003s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	72.429633s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	72.675611s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	73.572241s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.983348595848596
+time	74.245901s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9419104424986777
+time	73.304995s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	72.848247s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.958371460525647
+time	73.451211s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9253481592537065
+time	73.726966s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	73.716165s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9333333333333333
+time	75.271449s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9583587980646804
+time	74.496429s
+topology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	72.366835s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	72.598550s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9078291316526612
+time	74.438792s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	74.197820s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	73.335959s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9253594118300001
+time	73.334604s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.6406912529994373
+time	73.789007s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	73.151500s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9666869918699188
+time	73.397555s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	73.988870s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9583333333333333
+time	73.952802s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9666971916971918
+time	73.416217s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	72.418027s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.8574866437512463
+time	72.826734s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9666971916971918
+time	73.894582s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	73.691022s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	74.760625s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	74.042176s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9084172131564232
+time	74.204642s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9583333333333333
+time	73.391524s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	73.372223s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9081862933128755
+time	73.348000s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	73.512330s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.958371460525647
+time	73.161570s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.8268965680543094
+time	74.580800s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	74.531066s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	72.947007s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	73.208925s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.8586201899050474
+time	73.952095s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.950030487804878
+time	73.699135s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	73.431403s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9416414108826032
+time	72.712100s
+topology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9666971916971918
+time	74.140707s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	73.615369s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	74.497511s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	73.541930s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.983348595848596
+time	73.696464s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	73.638046s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9416666666666667
+time	73.140712s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	73.881963s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	74.783552s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	73.432444s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	73.454535s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	74.414950s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	74.167302s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.983348595848596
+time	74.065288s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.2931699816279258
+time	73.626203s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9577303419805179
+time	73.602730s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	72.800618s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	73.617634s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	74.596675s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	73.448817s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	73.254712s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.958371460525647
+time	73.210171s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	72.410508s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	73.689029s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.958371460525647
+time	74.111594s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9003864734299518
+time	74.436647s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.949954268292683
+time	73.755800s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	73.770627s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	74.118122s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	73.836611s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9666869918699188
+time	75.135653s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9416666666666667
+time	74.056153s
+topology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	75.094934s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9500457875457875
+time	73.270752s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	73.956914s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9500123834812182
+time	74.135427s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	73.699772s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	74.101608s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	73.135337s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	72.776123s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9666971916971918
+time	73.491735s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	73.385100s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9415421178384422
+time	74.393008s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9666971916971918
+time	73.351607s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	74.060733s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.983348595848596
+time	74.505008s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	74.070987s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	74.373792s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9500187969924812
+time	74.455341s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9666971916971918
+time	73.632610s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.983348595848596
+time	74.358480s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	73.765144s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	73.552898s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	73.591857s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9081376137461237
+time	73.823233s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	73.749644s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9916717596129363
+time	74.314013s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9666869918699188
+time	74.338756s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9666971916971918
+time	73.750659s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9666971916971918
+time	74.175702s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	74.308744s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	73.638845s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9666971916971918
+time	73.871420s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	74.128341s
+topology: [5]
+num_particles 88
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	72.465727s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	79.969257s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9419104424986777
+time	80.487687s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	80.335393s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	80.209902s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	79.989896s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9583333333333333
+time	80.052531s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.958371460525647
+time	79.910206s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9163614163614162
+time	80.218372s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	81.200981s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	79.758155s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	79.316756s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9583333333333333
+time	80.081612s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750152788388085
+time	81.226955s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	80.629454s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	80.828565s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9666869918699188
+time	78.506407s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9666971916971918
+time	80.639315s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	80.814573s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	81.190749s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	81.531883s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	79.259348s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	79.265284s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	79.938710s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.983348595848596
+time	79.745692s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	79.994511s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	80.013479s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	79.345529s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.983348595848596
+time	80.648806s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	81.476726s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	79.636710s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	79.620924s
+topology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	80.846320s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9500457875457875
+time	81.557956s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	80.760398s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	79.985241s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.983348595848596
+time	79.544720s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.983348595848596
+time	79.275193s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	78.912833s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	80.253733s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	80.806136s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9666869918699188
+time	79.953583s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.983348595848596
+time	80.215154s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9416666666666667
+time	79.466751s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	79.611445s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9666971916971918
+time	80.688481s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	80.416240s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	81.156543s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	79.736100s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	80.992726s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	80.771459s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	79.826886s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9666971916971918
+time	80.056453s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	80.979912s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.983348595848596
+time	80.686906s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	79.987194s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	79.172506s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9500457875457875
+time	80.055804s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	80.044287s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	80.616984s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	80.098114s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	79.945757s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9416666666666667
+time	79.830215s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.983348595848596
+time	80.095180s
+topology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.949954268292683
+time	80.723146s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	81.107229s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	80.801049s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	80.070302s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	80.927271s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.8420392609398633
+time	80.890554s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	80.099844s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	79.967371s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.958371460525647
+time	79.086193s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9666869918699188
+time	79.789055s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.983348595848596
+time	81.349527s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	79.859456s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.983348595848596
+time	79.746110s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.340268270120259
+time	80.322239s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	79.166260s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9583595420643614
+time	79.709064s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.87381832121367
+time	79.624052s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	81.030965s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	79.909259s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.5768788061489927
+time	80.833465s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	80.803170s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.983348595848596
+time	80.498045s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	80.880502s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	80.972044s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	80.688290s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	80.674707s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	79.747862s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	80.858552s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	80.054877s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.8999085365853658
+time	80.046912s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9666869918699188
+time	81.341546s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9666971916971918
+time	80.697974s
+topology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	80.423826s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	85.184093s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	80.700558s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	81.078192s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	80.433714s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	80.880669s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9666869918699188
+time	81.277173s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.983348595848596
+time	82.436535s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	81.580682s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	82.100766s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	80.859216s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9170836279014964
+time	81.872510s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	83.431687s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.983348595848596
+time	88.480998s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9666971916971918
+time	87.897021s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	89.001103s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	87.697241s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	88.924148s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	88.127406s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	88.062309s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	89.067990s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	88.234103s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9666971916971918
+time	88.804204s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	89.073206s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	88.023450s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	88.484591s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.983348595848596
+time	88.580303s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	88.117166s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	89.125567s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	88.446800s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	88.492973s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	88.222102s
+topology: [5]
+num_particles 96
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	88.418685s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.983348595848596
+time	132.326325s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	133.367174s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	133.433795s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	132.932638s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.949954268292683
+time	132.538867s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	133.952875s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	133.167521s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	132.779974s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	132.131799s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	132.732940s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	132.530492s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	132.190684s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	133.768787s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	131.147706s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	131.940588s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	131.934237s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	132.454975s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	131.647008s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	132.803282s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	133.124226s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	132.530044s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.958371460525647
+time	132.523931s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	132.247953s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	132.812390s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	131.923013s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9583333333333333
+time	132.407066s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	132.767040s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	132.183636s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	132.570862s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	132.664417s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	132.381887s
+topology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.983348595848596
+time	131.998237s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	133.303126s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.983348595848596
+time	133.030816s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	134.024751s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	131.757204s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	132.480092s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	133.247501s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	132.648569s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	134.808175s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	132.736595s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	133.347077s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	133.346580s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	132.882592s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	133.237538s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	132.075649s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	132.492757s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	133.640316s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9666869918699188
+time	132.082292s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	133.692493s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	132.716346s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	131.580528s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9666971916971918
+time	132.508166s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	132.959146s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	132.554780s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	133.708988s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9666971916971918
+time	133.086791s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.983348595848596
+time	133.483984s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.958371460525647
+time	132.911025s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	132.822127s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	132.268625s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9170074083893014
+time	133.021573s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	132.322989s
+topology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	132.320051s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.958371460525647
+time	133.401370s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.958371460525647
+time	133.217074s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	133.238528s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	133.102010s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	133.730753s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	132.752214s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	132.865823s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	133.145687s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	132.810046s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9666971916971918
+time	132.078191s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9666869918699188
+time	132.186084s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.958371460525647
+time	132.955200s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	133.278054s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	133.086260s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	132.520871s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	133.348383s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	132.993576s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9666971916971918
+time	132.893953s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	132.089336s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	132.859030s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9583333333333333
+time	132.846235s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	132.459332s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9583587980646804
+time	133.354492s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	132.678307s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.958371460525647
+time	133.903365s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	132.737515s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	133.087862s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	132.849106s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	133.690749s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.949954268292683
+time	133.413578s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	133.533978s
+topology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	133.499998s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9666869918699188
+time	133.227696s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	133.459206s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	133.781185s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.983348595848596
+time	133.270588s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	132.852803s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	132.992038s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	133.620451s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	133.966505s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.9583333333333333
+time	133.323455s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	134.136451s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9666869918699188
+time	134.074210s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	134.053571s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	133.659223s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.958371460525647
+time	133.535916s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	133.704954s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.9666869918699188
+time	133.811945s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	133.840866s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	134.201074s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	133.733840s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	133.320520s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	134.379870s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	133.770149s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	133.667171s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.8921217690427827
+time	133.665755s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	134.168764s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	133.061991s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.983348595848596
+time	133.247299s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	134.173737s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.949954268292683
+time	133.559027s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.9750228763153883
+time	134.321547s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9666869918699188
+time	133.034799s
+topology: [5]
+num_particles 144
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9500457875457875
+time	133.829394s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	18.827768s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	18.872309s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.5795509649142097
+time	18.996947s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	18.872460s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	19.232555s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	19.136276s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	18.569675s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	0.8541923868312757
+time	18.265803s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.891984174579377
+time	17.154614s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	17.493618s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.132956s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.8914727345866353
+time	17.367590s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	17.162266s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.315806s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	17.400782s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	17.323372s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	17.421283s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.078102564102564
+time	17.072041s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.449325s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	17.445829s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	17.607419s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.302898s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	17.414484s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.8055854784050762
+time	17.627532s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	17.340833s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.3441704263478456
+time	17.333279s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.917194928687774
+time	17.247668s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	17.460755s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	17.489381s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.401279s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.211885752688172
+time	17.105178s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9583333333333333
+time	17.424420s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	0.8795211790824076
+time	17.407680s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.933089133089133
+time	17.245922s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.424606s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	17.460196s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.7031853888452475
+time	17.245556s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.9417200447359058
+time	17.147633s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	17.585080s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	17.704540s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	17.403471s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.958371460525647
+time	17.335473s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.140443s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.0702806944732655
+time	17.386046s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	17.492527s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.350276s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	17.247916s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	17.419802s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9500457875457875
+time	17.740283s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.8359806672478296
+time	17.390870s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.455676s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	17.244345s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	17.636879s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.143821s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.8991983861549078
+time	17.591228s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9666971916971918
+time	17.349830s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	17.369638s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	17.459040s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.230530s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	17.237406s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	17.511992s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.258332s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.9075933998897243
+time	17.185374s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	17.200026s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.056389499896244
+time	17.347605s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	17.287182s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.265910s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	17.212914s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	17.539186s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.685199s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.06249173553719
+time	17.390235s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	17.377783s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	17.451662s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9583333333333333
+time	17.552004s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9750228763153883
+time	17.523487s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	17.231508s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.958371460525647
+time	17.194036s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.226589s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	17.332138s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.958371460525647
+time	17.743355s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	17.489408s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9666971916971918
+time	17.202098s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.428467s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	17.177645s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.1880908808933002
+time	17.542100s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.369501499250375
+time	17.339252s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	17.260928s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	0.9228537936913898
+time	17.208712s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.0469917332786771
+time	17.366284s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	17.356092s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.413970s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	17.398195s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	17.504611s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.401979s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	17.384310s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.949954268292683
+time	17.459282s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	17.828598s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	17.221888s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.408054s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	17.226425s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	17.418617s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.983348595848596
+time	17.276070s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.0641563477173233
+time	17.530569s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	17.337500s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.0424983053192225
+time	17.127189s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	17.548587s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.06249173553719
+time	17.519325s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	17.458116s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.958371460525647
+time	17.439693s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.273824s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	17.195012s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	17.926812s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	17.543105s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	17.332852s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.439018s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	17.198545s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	17.436372s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.452890s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	17.273408s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9250686289461643
+time	17.226498s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	17.465725s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	17.606076s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	17.315022s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9416666666666667
+time	17.541326s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	17.318989s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	17.454481s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	17.259624s
+topology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	17.808589s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.958371460525647
+time	69.187737s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9750228763153883
+time	69.153541s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	69.031770s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	69.138680s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	69.513406s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	68.860327s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9666971916971918
+time	68.840392s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	68.922172s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	68.360663s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.9666971916971918
+time	68.419064s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	69.000760s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.9666869918699188
+time	68.341392s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9666971916971918
+time	68.503474s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	69.011735s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.237318603269745
+time	69.532557s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	68.260921s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	68.894415s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	68.690719s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	68.599373s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	68.868915s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	68.067978s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	68.781469s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	69.286424s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	69.327097s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.9416666666666667
+time	68.260665s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	68.430150s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.9666869918699188
+time	69.141781s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	68.710248s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	68.914313s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.949954268292683
+time	69.855380s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	68.723611s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9666971916971918
+time	69.121692s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.9500457875457875
+time	68.308405s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9333943833943832
+time	69.599026s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.7657407407407408
+time	68.464315s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	69.383060s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9666869918699188
+time	68.968946s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	68.951669s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.8905124067699368
+time	69.264379s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.858487929788771
+time	69.305902s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	69.453455s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	69.510635s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.9500457875457875
+time	68.893040s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	69.080687s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.8751143815769407
+time	69.277758s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	68.836403s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.0579533584694873
+time	68.918227s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	68.830293s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	68.835959s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.9583587980646804
+time	68.831614s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	69.520921s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.9750228763153883
+time	68.682952s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.9750228763153883
+time	69.586869s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	68.387394s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	69.062812s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 1.9
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	70.028771s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	69.187131s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.005]
+fitness	1.899140415140415
+time	68.798898s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	68.600954s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.005]
+fitness	1.9583333333333333
+time	69.097910s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	69.564670s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	68.935847s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.5, 1.035]
+fitness	1.949954268292683
+time	68.610064s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_constant 2
+weight and u_constant [0.7, 1.035]
+fitness	1.9750228763153883
+time	68.849516s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	68.829276s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.005]
+fitness	1.9666869918699188
+time	68.502835s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	69.538147s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.005]
+fitness	1.2035849823800486
+time	69.370779s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.1, 1.035]
+fitness	1.9332723577235773
+time	69.987358s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	69.159414s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.5, 1.035]
+fitness	1.9750228763153883
+time	68.740753s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.7
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	69.174307s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.005]
+fitness	1.2035849823800486
+time	69.137486s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.005]
+fitness	1.7762738018667956
+time	69.137994s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.005]
+fitness	1.75
+time	68.963028s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.005]
+fitness	1.958371460525647
+time	69.649012s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.1, 1.035]
+fitness	1.9160291717666258
+time	68.943909s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.3, 1.035]
+fitness	1.2035849823800486
+time	69.277508s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.5, 1.035]
+fitness	1.2035849823800486
+time	68.998151s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.8
+weight and u_constant [0.7, 1.035]
+fitness	1.2035849823800486
+time	68.321280s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.005]
+fitness	1.9750228763153883
+time	68.898150s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.3, 1.005]
+fitness	1.2035849823800486
+time	68.652424s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.5, 1.005]
+fitness	1.2035849823800486
+time	68.656788s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.7, 1.005]
+fitness	1.8584019622794976
+time	69.102440s
+topology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_constant 1.9
+weight and u_constant [0.1, 1.035]
+fitness	1.2035849823800486
+time	69.149508s

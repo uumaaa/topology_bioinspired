@@ -1,0 +1,308 @@
+import argparse
+import numpy as np
+import time
+from typing import Callable, Tuple
+from copy import deepcopy as dp
+from keras.api.models import Model
+from tensorflow.python.ops.gen_data_flow_ops import map_size
+from aux import create_model, load_data
+from sklearn.metrics import accuracy_score, f1_score
+
+
+class Particle:
+    def __init__(self, model: Model, low_b: float, high_b: float) -> None:
+        self.model = dp(model)
+        flatten_weights = self.flatten_weights()
+        self.low_b = low_b
+        self.high_b = high_b
+        self.position = np.random.uniform(
+            low=self.low_b, high=self.high_b, size=flatten_weights.shape
+        )
+        self.unflatten_weights()
+        self.velocity = np.zeros_like(self.position)
+        self.best_position = np.copy(self.position)
+        self.best_fitness = float("-inf")
+        self.current_fitness = float("-inf")
+
+    def flatten_weights(self) -> np.ndarray:
+        """Flatten the model's weights into a 1D array."""
+        weights = self.model.get_weights()
+        flat_weights = np.concatenate([w.flatten() for w in weights])
+        return flat_weights
+
+    def unflatten_weights(self) -> None:
+        """Unflatten the 1D array of weights back into the model's structure."""
+        weights = self.model.get_weights()
+        new_weights = []
+        start = 0
+        for weight in weights:
+            shape = weight.shape
+            size = np.prod(shape)
+            new_weights.append(self.position[start : start + size].reshape(shape))
+            start += size
+        self.model.set_weights(new_weights)
+
+    def update_velocity(
+        self,
+        global_best_position: np.ndarray,
+        min_inertia_weight: float,
+        max_inertia_weight: float,
+        average_fitness: float,
+        best_fitness: float,
+        cognitive_constant: float,
+        social_constant: float,
+    ) -> None:
+        r1 = np.random.rand(len(self.position))
+        r2 = np.random.rand(len(self.position))
+        dynamic_inertia = (
+            max(
+                min_inertia_weight
+                - (max_inertia_weight - min_inertia_weight)
+                * (best_fitness - self.current_fitness)
+                / (best_fitness - average_fitness),
+                0,
+            )
+            if (self.current_fitness >= average_fitness)
+            else max_inertia_weight
+        )
+        cognitive_velocity = (
+            cognitive_constant * r1 * (self.best_position - self.position)
+        )
+        social_velocity = social_constant * r2 * (global_best_position - self.position)
+        self.velocity = (
+            dynamic_inertia * self.velocity + cognitive_velocity + social_velocity
+        )
+
+    def update_position(self) -> None:
+        self.position += self.velocity
+        self.position = np.clip(self.position, a_min=self.low_b, a_max=self.high_b)
+        self.unflatten_weights()
+
+
+class APSO:
+    def __init__(
+        self,
+        model: Model,
+        X_train: np.ndarray,
+        y_train: np.ndarray,
+        X_test: np.ndarray,
+        y_test: np.ndarray,
+        num_particles: int,
+        max_iterations: int,
+        min_inertia_weight: float = 0.4,
+        max_inertia_weight: float = 0.9,
+        cognitive_constant: float = 1.5,
+        social_constant: float = 1.5,
+        print_at_iterations: int = 10,
+        low_b: float = -0.5,
+        high_b: float = 0.5,
+        evaluation_method: str = "accuracy",
+    ):
+        self.fitness_function: Callable[[Model], float] = (
+            self.accuracy_fitness_function
+            if evaluation_method == "accuracy"
+            else self.f1_score_fitness_function
+        )
+        self.num_particles = num_particles
+        self.max_iterations = max_iterations
+        self.min_inertia_weight = min_inertia_weight
+        self.max_inertia_weight = max_inertia_weight
+        self.cognitive_constant = cognitive_constant
+        self.social_constant = social_constant
+        self.print_at_iterations = print_at_iterations
+        self.swarm = [Particle(model, low_b, high_b) for _ in range(num_particles)]
+        self.global_best_position = self.swarm[0].position
+        self.global_best_fitness = float("-inf")
+        self.X_train = X_train
+        self.y_train = y_train
+        self.X_test = X_test
+        self.y_test = y_test
+
+    def optimize(self) -> Tuple[np.ndarray, float]:
+        for i in range(self.max_iterations):
+            total_fitness = np.zeros(len(self.swarm))
+            for index, particle in enumerate(self.swarm):
+                particle.current_fitness = self.fitness_function(
+                    particle.model,
+                )
+                total_fitness[index] = particle.current_fitness
+
+                if particle.current_fitness > particle.best_fitness:
+                    particle.best_fitness = particle.current_fitness
+                    particle.best_position = np.copy(particle.position)
+
+                if particle.current_fitness > self.global_best_fitness:
+                    self.global_best_fitness = particle.current_fitness
+                    self.global_best_position = np.copy(particle.position)
+            average_fitness = np.average(total_fitness)
+            for particle in self.swarm:
+                particle.update_velocity(
+                    self.global_best_position,
+                    self.min_inertia_weight,
+                    self.max_inertia_weight,
+                    average_fitness,
+                    self.global_best_fitness,
+                    self.cognitive_constant,
+                    self.social_constant,
+                )
+                particle.update_position()
+
+            if i % self.print_at_iterations == 0:
+                print(
+                    f"Iteration {i}/{self.max_iterations}, Best Fitness: {self.global_best_fitness:4f}"
+                )
+                print(
+                    f"Mean {np.mean(total_fitness):4f} \t Std {np.std(total_fitness):4f}"
+                )
+
+        return self.global_best_position, self.global_best_fitness
+
+    def accuracy_fitness_function(
+        self,
+        model: Model,
+    ) -> float:
+        y_train_pred = np.argmax(model(self.X_train), axis=1)
+        train_accuracy = accuracy_score(self.y_train, y_train_pred)
+        y_test_pred = np.argmax(model(self.X_test), axis=1)
+        test_accuracy = accuracy_score(self.y_test, y_test_pred)
+        return train_accuracy + test_accuracy
+
+    def f1_score_fitness_function(
+        self,
+        model: Model,
+    ) -> float:
+        y_train_pred = np.argmax(model(self.X_train).numpy(), axis=1)
+        y_test_pred = np.argmax(model(self.X_test).numpy(), axis=1)
+
+        is_binary_classification = len(np.unique(self.y_train)) == 2
+
+        if is_binary_classification:
+            train_f1 = f1_score(self.y_train, y_train_pred, average="binary")
+            test_f1 = f1_score(self.y_test, y_test_pred, average="binary")
+        else:
+            train_f1 = f1_score(self.y_train, y_train_pred, average="weighted")
+            test_f1 = f1_score(self.y_test, y_test_pred, average="weighted")
+        return train_f1 + test_f1
+
+
+def run_apso(
+    model,
+    X_train,
+    y_train,
+    X_test,
+    y_test,
+    num_particles,
+    min_inertia_weight,
+    max_inertia_weight,
+    social_constant,
+    cognitive_constant,
+):
+    pso = APSO(
+        model,
+        X_train,
+        y_train,
+        X_test,
+        y_test,
+        num_particles=num_particles,
+        max_iterations=150,
+        social_constant=social_constant,
+        cognitive_constant=cognitive_constant,
+        min_inertia_weight=min_inertia_weight,
+        max_inertia_weight=max_inertia_weight,
+        evaluation_method="f1",
+    )
+    position, fitness = pso.optimize()
+    return fitness
+
+
+def execute_on_all_datasets():
+    datasets = ["iris", "breast", "wine"]
+    with open("apso.out", mode="w") as file:
+        for dataset_name in datasets:
+            file.write(f"{dataset_name}\n")
+            X_train, X_test, y_train, y_test, topologies = load_data(dataset_name)
+
+            for topology in topologies:
+                model = create_model(
+                    topology, np.unique(y_train).shape[0], X_train.shape[1]
+                )
+                for num_particles in [
+                    int(X_train.shape[1] * 20 * 0.2),
+                    int(X_train.shape[1] * 20 * 0.8),
+                    int(X_train.shape[1] * 20 * 0.9),
+                    int(X_train.shape[1] * 20),
+                    int(X_train.shape[1] * 20 * 1.1),
+                    int(X_train.shape[1] * 20 * 1.2),
+                    int(X_train.shape[1] * 20 * 1.8),
+                ]:
+                    for cognitive_constant in [1.7, 1.8, 1.9, 2]:
+                        for social_constant in [1.7, 1.8, 1.9, 2]:
+                            for min_values in [
+                                [0.1, 0.35],
+                                [0.25, 0.45],
+                                [0.35, 0.55],
+                                [0.45, 0.65],
+                                [0.60, 0.75],
+                                [0.8, 1],
+                                [0.1, 0.8],
+                            ]:
+                                start_time = time.time()
+                                fitness = run_apso(
+                                    model,
+                                    X_train,
+                                    y_train,
+                                    X_test,
+                                    y_test,
+                                    num_particles,
+                                    min_values[0],
+                                    min_values[1],
+                                    cognitive_constant,
+                                    social_constant,
+                                )
+                                file.write(f"topology: {topology}\n")
+                                file.write(f"num_particles {num_particles}\n")
+                                file.write(
+                                    f"cognitive_constant {cognitive_constant} \t social_contant {social_constant}\n"
+                                )
+                                file.write(f"weight_values {min_values}\n")
+                                file.write(f"fitness\t{fitness}\n")
+                                end_time = time.time()
+                                file.write(f"time\t{(end_time-start_time):.6f}s")
+
+
+def execute_on_single_dataset(dataset_name):
+    X_train, X_test, y_train, y_test, topologies = load_data(dataset_name)
+
+    for topology in topologies:
+        print(f"topology: {topology}")
+
+        if dataset_name == "digits":
+            model = create_model(
+                topology, num_classes=10, data_2D=True, dim1_size=8, dim2_size=8
+            )
+        else:
+            model = create_model(
+                topology, np.unique(y_train).shape[0], X_train.shape[1]
+            )
+
+        fitness = run_apso(model, X_train, y_train, X_test, y_test, 50, 0.4, 0.6, 2, 2)
+        print(f"Fitness: {fitness}")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Ejecutar PSO en diferentes datasets")
+    parser.add_argument(
+        "-t",
+        "--test",
+        type=str,
+        choices=["iris", "breast", "wine", "digits", "all"],
+        default="iris",
+        help="dataset to test (iris, breast, wine, digits). default: 'iris'.",
+    )
+    args = parser.parse_args()
+    dataset_name = args.test
+
+    if dataset_name == "all":
+        execute_on_all_datasets()
+    else:
+        execute_on_single_dataset(dataset_name)

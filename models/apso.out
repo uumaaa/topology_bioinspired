@@ -1,0 +1,5432 @@
+iris
+topology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	14.171172stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	15.009295stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9417200447359058
+time	14.925293stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	14.995966stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	15.809603stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.8078628320487402
+time	14.042435stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9416666666666667
+time	13.798142stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.8833333333333333
+time	13.817724stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	13.762619stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	13.707562stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9170836279014964
+time	13.616434stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9171219715956558
+time	13.882220stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9666971916971918
+time	13.938044stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.6827858807858809
+time	13.884971stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	13.590057stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.08596271470465
+time	14.113795stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.8586201899050474
+time	13.797484stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.7570516922252488
+time	13.748124stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	13.854450stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	13.632318stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.8667887667887668
+time	14.845015stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.8584019622794976
+time	13.475537stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.4661020887007727
+time	13.474577stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	13.186044stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.933089133089133
+time	13.506753stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	13.489472stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	13.544650stopology: [5]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	13.501805stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	13.227067stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	13.338804stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	13.168052stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	13.303787stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.06249173553719
+time	13.057939stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	13.281336stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.958371460525647
+time	13.511047stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9583333333333333
+time	13.401920stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9500457875457875
+time	13.481598stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.3467723963279519
+time	13.501294stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.4964840300661197
+time	13.622157stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9237848687294892
+time	13.260875stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	13.476338stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	13.282474stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	13.268405stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	13.280038stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	13.340222stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	13.461556stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9583333333333333
+time	13.628262stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	13.616062stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	13.496617stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9666869918699188
+time	13.281350stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	13.607756stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.958371460525647
+time	13.768211stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.958371460525647
+time	13.220708stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	13.488642stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	13.483481stopology: [5]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9583333333333333
+time	13.409629stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9583587980646804
+time	13.448097stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	13.588642stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	13.355750stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.6581724137931033
+time	13.296157stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9250700970213166
+time	13.403254stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	13.316526stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.6135270774976658
+time	13.007983stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9666971916971918
+time	13.109008stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	13.503986stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	0.38089210367691384
+time	13.145606stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	13.509715stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	13.375229stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9583333333333333
+time	13.263512stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	13.156331stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	13.416736stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9500457875457875
+time	13.507393stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.8915670498084292
+time	13.504108stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	13.238093stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.3075498575498576
+time	14.041066stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	13.564547stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	13.554780stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9416666666666667
+time	13.601886stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	13.296969stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9666971916971918
+time	13.466631stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	13.688503stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	13.510913stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	13.254445stopology: [5]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	13.468559stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.8647613557613556
+time	13.236256stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	13.252932stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.8999085365853658
+time	13.340235stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	13.178890stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	13.756248stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.8505949800589558
+time	13.549011stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	13.337139stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9500457875457875
+time	13.609715stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	13.518823stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	13.427778stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.958371460525647
+time	13.404366stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	13.387231stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	0.38089210367691384
+time	13.305882stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.950030487804878
+time	13.430187stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9583333333333333
+time	13.618799stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	13.423203stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.950030487804878
+time	13.161778stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	13.239169stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9069971870604783
+time	13.544859stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9250041323774298
+time	13.449357stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	13.391448stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.642202157458728
+time	13.680449stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	13.426322stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9666971916971918
+time	13.334933stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	13.383979stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	13.028702stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.8, 1]
+fitness	0.38089210367691384
+time	13.335677stopology: [5]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.65
+time	13.444767stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9500457875457875
+time	53.214357stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.949954268292683
+time	53.483850stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	53.974579stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	53.695714stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9666971916971918
+time	53.604175stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	53.260370stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	54.071975stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	53.783309stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	53.637810stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9078291316526612
+time	53.803317stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	53.535889stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	53.225834stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9500457875457875
+time	53.229155stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	52.925071stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	53.617976stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	52.553366stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	53.379126stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	53.048951stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	53.226300stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9666971916971918
+time	53.804189stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	52.897762stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	52.597848stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9666971916971918
+time	52.459070stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	53.330792stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	53.187021stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9666971916971918
+time	53.530296stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	53.211872stopology: [5]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	53.732224stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9500457875457875
+time	53.680783stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.983348595848596
+time	53.471497stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	54.032429stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	53.147975stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.933740131966537
+time	53.694496stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	53.602890stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	53.338504stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9253864734299517
+time	53.625058stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	53.335125stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	52.760026stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	54.332258stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	53.516822stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	53.878451stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	54.124134stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	52.584021stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	52.515476stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	53.283111stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	53.022654stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	53.992090stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.8754703532530415
+time	53.338826stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	53.624007stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	53.213798stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	52.716135stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9666971916971918
+time	53.982759stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	53.291214stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.958371460525647
+time	52.897069stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	53.276560stopology: [5]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9666904122600326
+time	54.120126stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	53.455563stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	53.674125stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	53.920899stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.5198179259052715
+time	53.599096stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	54.013608stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	52.862145stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.958371460525647
+time	54.162809stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9417200447359058
+time	54.253335stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	53.039804stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	53.366613stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.8634310134310135
+time	53.429322stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	54.335053stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9087198067632851
+time	53.439533stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9583333333333333
+time	53.607817stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	53.159276stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	53.302252stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	53.273779stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	54.361115stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	53.930836stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9416666666666667
+time	54.014220stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	53.189294stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9666869918699188
+time	53.316659stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	53.343799stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	53.700573stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	53.261193stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.891765797366682
+time	53.426380stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	53.513745stopology: [5]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	53.359690stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9666869918699188
+time	53.801423stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.958371460525647
+time	53.885245stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	53.906195stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	54.209915stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	53.452857stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	53.630530stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	53.432577stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	52.667043stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	52.895951stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	53.936133stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	53.490097stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	53.450275stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	53.757339stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	53.690361stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9332723577235773
+time	53.493227stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9583333333333333
+time	53.939006stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	53.494570stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9081376137461237
+time	53.869274stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	55.132638stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9583595420643614
+time	52.739576stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	53.453665stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	54.102213stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	53.764164stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9583333333333333
+time	53.223336stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	53.729220stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	53.233778stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	53.271319stopology: [5]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	53.946476stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	59.728386stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	59.597640stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	59.584707stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	59.177985stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	60.359852stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9583587980646804
+time	59.628214stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	60.533939stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9666869918699188
+time	60.238906stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.950030487804878
+time	60.322078stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9666971916971918
+time	59.692801stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	60.048006stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	59.842963stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	59.773308stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	60.099720stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	60.072936stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	59.313783stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	59.925641stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	60.849876stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	60.140743stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	59.649447stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9081376137461237
+time	60.421268stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9666869918699188
+time	59.894910stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.3375187515891178
+time	60.451303stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	60.603105stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	60.801905stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	59.899795stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.958371460525647
+time	59.344026stopology: [5]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	60.057637stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.949954268292683
+time	60.408775stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	60.133912stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	59.676709stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	59.990891stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.983348595848596
+time	59.396372stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.950030487804878
+time	60.561899stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.8084477149102738
+time	59.376195stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	61.037528stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	60.725069stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	59.436363stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	60.002584stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9500457875457875
+time	60.272152stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	60.086524stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	60.487310stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	60.044574stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	60.390942stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.983348595848596
+time	60.493755stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.949954268292683
+time	59.785486stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9500457875457875
+time	59.737276stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	59.803621stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9916717596129363
+time	60.456789stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	60.170787stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	60.207712stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9500457875457875
+time	60.413878stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	60.246102stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	60.437449stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	59.170270stopology: [5]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	59.951807stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	59.884652stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	59.599715stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	59.796762stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.6290740740740741
+time	60.892776stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	60.615655stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9666971916971918
+time	60.299191stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	59.414638stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9666869918699188
+time	60.746630stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9666971916971918
+time	60.178448stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	60.119017stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	60.254947stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	60.238103stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	60.221669stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9417200447359058
+time	60.926178stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9250458365164247
+time	59.782224stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	60.282524stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	60.948320stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9170836279014964
+time	60.108237stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.958371460525647
+time	59.320864stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	59.868584stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	59.894995stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	59.669652stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.949954268292683
+time	59.995969stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	59.163901stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	60.254127stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	60.395579stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.958371460525647
+time	60.099360stopology: [5]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9583333333333333
+time	60.685064stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9666869918699188
+time	59.942166stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	59.901444stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	59.975014stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	60.118417stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	60.811570stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9088083811613223
+time	60.257865stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	59.407085stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.983348595848596
+time	60.098078stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9583333333333333
+time	60.177597stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	59.995413stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	60.810369stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	61.373495stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9583333333333333
+time	60.164970stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	60.176327stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.983348595848596
+time	60.164634stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	59.689476stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	60.067388stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	59.408016stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	60.159958stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	59.201407stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	60.441704stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9666971916971918
+time	60.855346stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.958371460525647
+time	60.642684stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	60.164849stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	59.856699stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	60.210978stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9666971916971918
+time	60.047731stopology: [5]
+num_particles 72
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9666971916971918
+time	60.654441stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	67.182502stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	66.809399stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	67.394417stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	68.008129stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.6004519757259483
+time	66.246182stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	66.457742stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.5874972712472712
+time	66.628535stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.983348595848596
+time	66.561853stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	67.123630stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	66.632696stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	66.528547stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	66.672950stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	67.051503stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	66.219588stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	66.814300stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	67.244851stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	66.759869stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	66.707085stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	66.053300stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9417200447359058
+time	66.373591stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	66.280329stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	66.870540stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	67.162524stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9584614731673553
+time	66.367563stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	66.409882stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	66.594075stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.5006776208597028
+time	66.030992stopology: [5]
+num_particles 80
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9583333333333333
+time	67.715969stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9500457875457875
+time	66.892347stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	66.602051stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9417200447359058
+time	66.277888stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	66.507197stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	67.224805stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	66.554274stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.983348595848596
+time	66.807558stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.6827047038327527
+time	67.248262stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	66.520175stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	67.096322stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	67.266337stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9416666666666667
+time	66.895967stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	67.736693stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	66.749471stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	67.872854stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	66.724703stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.875664278250485
+time	67.545817stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	67.453160stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.949954268292683
+time	66.724981stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	67.434105stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	66.587335stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9666971916971918
+time	66.448367stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	66.270784stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.899140415140415
+time	66.749393stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	66.926207stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	66.624607stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	66.407125stopology: [5]
+num_particles 80
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	66.907799stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	66.425014stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	66.422804stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.8999085365853658
+time	66.809410stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.949954268292683
+time	67.493397stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	66.580589stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9250458365164247
+time	65.858765stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.908773184832524
+time	66.673726stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.949954268292683
+time	65.937934stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.949954268292683
+time	67.087647stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	67.681214stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	66.757482stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	67.110339stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	66.908034stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	66.151566stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	66.141805stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.983348595848596
+time	66.388939stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	66.421000stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	66.407634stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9500457875457875
+time	66.854197stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	66.329187stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	67.781206stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	66.521991stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9583333333333333
+time	67.067652stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	65.205405stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9666971916971918
+time	66.334818stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	67.438943stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	66.315923stopology: [5]
+num_particles 80
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	66.975987stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9666971916971918
+time	66.224837stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	67.010296stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	66.003882stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	66.199600stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.8227413175060234
+time	66.559009stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	67.050059stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.950030487804878
+time	67.384967stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.983348595848596
+time	66.793405stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	67.579797stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	66.400229stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	66.278628stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.958371460525647
+time	66.559523stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	67.041132stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9500457875457875
+time	68.194745stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	68.122064stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.884337888087888
+time	66.980673stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	65.640133stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	66.637097stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	67.184222stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	67.118174stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.949954268292683
+time	67.747123stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	67.241997stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	66.369538stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9415421178384422
+time	66.382761stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	66.421113stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	66.017196stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	66.059204stopology: [5]
+num_particles 80
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9245874713521771
+time	66.546638stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	73.918494stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.966381084696923
+time	74.432960stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	73.766885stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	73.789266stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	73.708959stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	74.504095stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	73.592553stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	73.124723stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	73.753044stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9666971916971918
+time	73.817328stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	73.549114stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	73.883956stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	74.116096stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	72.581891stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.983348595848596
+time	73.171995stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	73.504742stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	73.447809stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	73.189794stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9750152788388085
+time	74.183196stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	73.976227stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9165904471544715
+time	74.722836stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9248398657922832
+time	73.356688stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	73.599500stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9583333333333333
+time	74.525258stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9666971916971918
+time	74.161788stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	73.596619stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	73.543230stopology: [5]
+num_particles 88
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	73.713907stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9583333333333333
+time	73.587915stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9666971916971918
+time	73.272215stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	73.685457stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	73.405200stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	74.029942stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	73.443815stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	72.956614stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	73.475325stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	73.150490stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9916717596129363
+time	72.578551stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.8549293516940577
+time	73.115831stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	74.047368stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	72.854898stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	74.202063stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.983348595848596
+time	72.908583stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	72.955703stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9583333333333333
+time	72.941913stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	73.123466stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	73.673593stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.949954268292683
+time	73.919004stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.908773184832524
+time	73.866577stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	74.270850stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	73.303623stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	73.409559stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	74.423939stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	73.853037stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9666971916971918
+time	73.387759stopology: [5]
+num_particles 88
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	73.607164stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	72.728170stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	74.402241stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	73.705431stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	73.951645stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.983348595848596
+time	73.250694stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.949954268292683
+time	73.060335stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	72.892117stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.958371460525647
+time	73.331003stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	73.997000stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	74.392157stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	73.171061stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.983348595848596
+time	72.685566stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	73.659960stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9666971916971918
+time	73.950648stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	73.918906stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	75.326005stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	73.971935stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9666971916971918
+time	72.210291stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.8806764001000271
+time	72.922138stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	74.181988stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	74.023795stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.958371460525647
+time	73.445452stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	73.628778stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	74.113894stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9583333333333333
+time	73.386564stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	73.431351stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	74.680564stopology: [5]
+num_particles 88
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.7987741147741148
+time	74.151052stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	73.082691stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	72.305619stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	73.225242stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9163614163614162
+time	73.647288stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9253864734299517
+time	73.704308stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.882470669427191
+time	74.665746stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	74.807209stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	74.982449stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	72.879299stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	73.731930stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9666971916971918
+time	73.420422stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	74.363891stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.7002105525850166
+time	74.327163stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	74.723144stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.950030487804878
+time	73.490471stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.958371460525647
+time	73.077246stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	72.973395stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.958371460525647
+time	74.471195stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.949954268292683
+time	72.941694stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	73.754986stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	73.238999stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	74.041926stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	73.847764stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	74.407654stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	74.038694stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.950030487804878
+time	74.825527stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9500457875457875
+time	73.491082stopology: [5]
+num_particles 88
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	73.575693stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	80.624418stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	81.308489stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9333172871202395
+time	79.758724stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	80.767071stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	81.936936stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	80.753966stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	80.281295stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9333943833943832
+time	80.800986stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9666971916971918
+time	79.243078stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9583333333333333
+time	80.553972stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9666971916971918
+time	80.919426stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	79.999625stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.958371460525647
+time	79.409305stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	79.986012stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	80.232419stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	81.094376stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.958371460525647
+time	80.907067stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	80.600446stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	80.537449stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	80.889691stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9666971916971918
+time	80.636028stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9500457875457875
+time	81.684737stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.8339113284746196
+time	81.546681stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	80.364378stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.7365461104929762
+time	79.711827stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.958371460525647
+time	80.490405stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	80.751443stopology: [5]
+num_particles 96
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	80.047095stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	79.819077stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.8757590677031484
+time	79.892405stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	80.055989stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.949954268292683
+time	79.924843stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9419104424986777
+time	81.069799stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	81.256021stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	81.172242stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	80.251042stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	81.260341stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	80.762983stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	81.111063stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	81.091988stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	80.288833stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	80.338342stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	80.027416stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	80.154769stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.8159048242120832
+time	80.386740stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	80.814871stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	80.420150stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9666971916971918
+time	80.418661stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	80.739998stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	80.395580stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	80.364507stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	80.427396stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	78.821174stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.983348595848596
+time	80.156902stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	80.244559stopology: [5]
+num_particles 96
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9416666666666667
+time	80.446462stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.958371460525647
+time	80.070405stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.958371460525647
+time	81.001475stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	79.728164stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.958371460525647
+time	79.910500stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	81.455481stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	80.443949stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	79.810002stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	80.090470stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	79.967881stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	81.152964stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9583436205928073
+time	80.963672stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	80.555493stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	78.891136stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9666971916971918
+time	80.468558stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	80.138613stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	81.549526stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	80.164057stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.958371460525647
+time	79.479512stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9416666666666667
+time	78.927493stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	80.338844stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	80.439854stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9666869918699188
+time	80.231252stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	80.484393stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	79.904962stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	79.532382stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.983348595848596
+time	81.260009stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.949954268292683
+time	79.927201stopology: [5]
+num_particles 96
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.983348595848596
+time	80.040463stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	80.385967stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	81.213048stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	80.799669stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	80.047670stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.949954268292683
+time	79.819198stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.900061349293277
+time	79.385250stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	79.506790stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	80.951930stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	80.224453stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	80.036023stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	80.955347stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.983348595848596
+time	80.021759stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	80.247782stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	81.656426stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	81.269958stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9583595420643614
+time	80.906481stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	80.366356stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	80.850973stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	80.734554stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	79.571500stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.958371460525647
+time	80.398273stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9666869918699188
+time	80.309848stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	80.718987stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	80.128785stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	79.543760stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	80.354479stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.916309638074344
+time	80.500056stopology: [5]
+num_particles 96
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	80.411008stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9163614163614162
+time	120.355443stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	120.746948stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.958371460525647
+time	120.229970stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	120.319956stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	120.302919stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9583587980646804
+time	120.001533stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.983348595848596
+time	120.897393stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9666869918699188
+time	119.809954stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	118.727880stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.949954268292683
+time	121.747771stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	120.196629stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	119.732477stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	119.349314stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	120.363669stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	120.827356stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.958371460525647
+time	121.243262stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	121.003416stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	120.680797stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	121.274606stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	120.186764stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9916717596129363
+time	120.588501stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	120.250551stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	120.969365stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	119.698358stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9916717596129363
+time	126.385476stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	120.848783stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	121.686869stopology: [5]
+num_particles 144
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9583587980646804
+time	121.360313stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.958371460525647
+time	123.116082stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	123.120095stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.949954268292683
+time	122.269834stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.8514852472089314
+time	121.544358stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	129.654386stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	131.857320stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	132.221724stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9168948486021657
+time	132.611031stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	132.825849stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.983348595848596
+time	132.652882stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	133.151036stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.983348595848596
+time	132.694923stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9583595420643614
+time	133.263090stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	132.472437stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9666971916971918
+time	131.872993stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	132.588145stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.983348595848596
+time	133.276793stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	131.911828stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	132.530899stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	133.776854stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	134.175400stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	133.018473stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	133.032468stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	133.416438stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9667748917748917
+time	134.057475stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9833333333333334
+time	132.373302stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	132.339141stopology: [5]
+num_particles 144
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	132.594870stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	132.618731stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	132.158717stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	134.042650stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	131.422572stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9500457875457875
+time	131.420043stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9166775097580366
+time	132.071219stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9666971916971918
+time	133.011504stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.949954268292683
+time	132.116559stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	133.385121stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	133.083865stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	132.506086stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	133.611846stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.950030487804878
+time	132.271690stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	131.961822stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	131.974625stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	132.787886stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9666971916971918
+time	133.316152stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9666971916971918
+time	132.148974stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	133.394448stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9421973934699839
+time	132.140634stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.8994617874288455
+time	133.143902stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	131.931912stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9666971916971918
+time	133.591174stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.983348595848596
+time	132.454871stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	133.182924stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	131.651157stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	132.552720stopology: [5]
+num_particles 144
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9666971916971918
+time	133.281930stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9500457875457875
+time	133.371588stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	134.984105stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9666971916971918
+time	132.971613stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	133.606345stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	133.292156stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	132.971918stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.958371460525647
+time	133.577919stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.983348595848596
+time	132.314672stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	132.151444stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	133.924184stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	132.539828stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	132.642862stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.949954268292683
+time	133.528444stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9666971916971918
+time	132.115175stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9916717596129363
+time	133.657702stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	132.654022stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9666971916971918
+time	132.855474stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.983348595848596
+time	133.800251stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.983348595848596
+time	133.350643stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	133.827975stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.958371460525647
+time	133.461618stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	133.070217stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.9666971916971918
+time	132.696932stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	133.882825stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	132.943171stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	132.300977stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	133.873098stopology: [5]
+num_particles 144
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.983348595848596
+time	134.634510stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.8827006502639414
+time	18.613481stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9666971916971918
+time	18.811790stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	0.38089210367691384
+time	18.608886stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	0.38089210367691384
+time	18.518986stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	0.38089210367691384
+time	18.435552stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	18.463732stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	0.38089210367691384
+time	18.772218stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	18.945249stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	18.869950stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	18.662807stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	0.38089210367691384
+time	18.800957stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.06249173553719
+time	18.688767stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	18.576061stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	18.672974stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	18.876869stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	18.847638stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	0.38089210367691384
+time	19.158415stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.6721493451202767
+time	18.650639stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	18.355555stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	0.38089210367691384
+time	18.218327stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	18.599089stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	18.613655stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	18.626409stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.865959818636648
+time	18.828087stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.6581724137931033
+time	18.948862stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.2485085354896674
+time	18.668270stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9666971916971918
+time	18.303244stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	18.411342stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	18.682307stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9583333333333333
+time	19.017001stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	0.38089210367691384
+time	19.062025stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	18.920017stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	19.045170stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	18.357218stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	18.763044stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	18.803229stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	18.964919stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	18.879810stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	18.663190stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	19.163811stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	18.468458stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	18.453947stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	18.409037stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	18.673515stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.0409393004115226
+time	18.614244stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	18.771617stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	0.38089210367691384
+time	18.620165stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	0.38089210367691384
+time	19.006021stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	18.710483stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	0.38089210367691384
+time	18.408642stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	18.696303stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	18.812050stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	18.772716stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	0.38089210367691384
+time	18.625502stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.5047139501799747
+time	18.695008stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	0.38089210367691384
+time	18.765157stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	19.058526stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	18.250983stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	18.586313stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	0.38089210367691384
+time	18.643939stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	18.830997stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	18.785364stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.078102564102564
+time	18.709320stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	0.38089210367691384
+time	18.751381stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	18.722892stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	18.644007stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	0.38089210367691384
+time	18.473220stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	0.38089210367691384
+time	18.630823stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	18.925810stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	18.762256stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	18.766953stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	18.995023stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	0.38089210367691384
+time	18.794927stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.7112698941240132
+time	18.427125stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	18.434936stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	18.488127stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.858487929788771
+time	18.673300stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	0.38089210367691384
+time	18.774301stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	18.732771stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	0.38089210367691384
+time	18.959235stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	18.760297stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	18.780381stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	18.600062stopology: [3, 3]
+num_particles 16
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	18.290840stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	0.38089210367691384
+time	18.873101stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	19.193218stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	18.846383stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	0.38089210367691384
+time	18.809231stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	0.38089210367691384
+time	18.629118stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.056389499896244
+time	18.614340stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	0.38089210367691384
+time	18.359967stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	18.773131stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	18.903584stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	0.38089210367691384
+time	18.824644stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	19.224817stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.0702806944732655
+time	18.746965stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	0.38089210367691384
+time	18.735375stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	0.38089210367691384
+time	18.271245stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	18.692747stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	18.850820stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.958371460525647
+time	18.970213stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9500457875457875
+time	18.778143stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	0.38089210367691384
+time	19.030146stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	19.278852stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	0.38089210367691384
+time	18.274864stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	18.779873stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	0.38089210367691384
+time	18.921682stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	18.447942stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9416666666666667
+time	18.876324stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.5693731246087421
+time	18.628014stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.8, 1]
+fitness	0.38089210367691384
+time	19.121067stopology: [3, 3]
+num_particles 16
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	0.38089210367691384
+time	18.899421stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.950030487804878
+time	73.748714stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	74.090299stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.958371460525647
+time	74.197109stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9666971916971918
+time	74.344910stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.0702806944732655
+time	74.567933stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.7659695190762885
+time	73.826372stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	73.835891stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9250686289461643
+time	74.523185stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.7253667776736115
+time	74.351451stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.958371460525647
+time	73.531727stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	74.254595stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	74.550950stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9084294121244167
+time	74.495463stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	74.400068stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	73.847109stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	74.445863stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.8830825143325143
+time	74.317626stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.805787295207776
+time	74.325376stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.7475831957267483
+time	74.812364stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	74.657491stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	74.308238stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	74.409954stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	74.402332stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.9500457875457875
+time	75.154449stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	74.297513stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	74.391871stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.5732147197859887
+time	73.977333stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	74.761688stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	73.717450stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9666971916971918
+time	75.047422stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.9666971916971918
+time	73.775008stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	74.563782stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	74.585882stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	74.603184stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.8084477149102738
+time	73.816317stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.9232850558076462
+time	74.366138stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	74.428232stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	74.829183stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	74.489676stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	74.928766stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	74.433985stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	74.588568stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.958371460525647
+time	73.986773stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	74.596873stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9248398657922832
+time	74.155222stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	74.760855stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	74.026819stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	74.768092stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.949954268292683
+time	74.572760stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	75.118037stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	74.175858stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.949954268292683
+time	73.855100stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	74.595461stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.8914353616999642
+time	74.909212stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9170531400966184
+time	74.820086stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9415421178384422
+time	74.554749stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9583333333333333
+time	74.988657stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	74.997164stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.8495237759228722
+time	74.552805stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.925
+time	73.915900stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	74.495998stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.9420760164120066
+time	74.744734stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	74.565490stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	74.871702stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	74.349778stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.983348595848596
+time	74.931536stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	74.110270stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.958371460525647
+time	74.829147stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	74.586929stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	75.089974stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	73.919350stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.958371460525647
+time	74.685151stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	74.513242stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	75.187278stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9253594118300001
+time	74.454515stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.8899622544691472
+time	75.078212stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.4264113783228471
+time	74.261262stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	75.988520stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	74.251539stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	75.175753stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.7416007864354466
+time	73.766462stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	75.133706stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	75.086272stopology: [3, 3]
+num_particles 64
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	75.569705stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.6577534722222222
+time	70.647897stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.983348595848596
+time	69.413505stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.6825
+time	68.950508stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.8917328749681692
+time	68.921830stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	69.689173stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	68.899095stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9666971916971918
+time	69.423712stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	68.769204stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.5968777473110456
+time	69.423632stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	69.768022stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	69.066123stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.841811549997458
+time	69.542275stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	69.342822stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	69.127636stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	69.226599stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9666971916971918
+time	69.404352stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.949954268292683
+time	69.443060stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	68.618742stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	69.225685stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	68.686098stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.9244045944678856
+time	68.914742stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	68.715347stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.8751392126392126
+time	69.450040stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	69.292906stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	68.977772stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.8267265087853324
+time	68.751587stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	69.556902stopology: [3, 3]
+num_particles 64
+cognitive_constant 2 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.949954268292683
+time	69.150675stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	77.804597stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	77.305812stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.958371460525647
+time	77.875316stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	77.296370stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	77.651551stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	78.269474stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	77.726577stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	77.012064stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	77.523836stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	77.072094stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9666971916971918
+time	77.141491stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.8674266109799826
+time	77.226962stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9666971916971918
+time	77.378261stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	77.737735stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	76.828507stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.9750228763153883
+time	77.401771stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.9750228763153883
+time	77.513854stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.8634310134310135
+time	77.593373stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	77.417620stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	77.090177stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.950030487804878
+time	77.109568stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	77.738369stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	77.929737stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	76.922745stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	77.105915stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.5772062765164545
+time	78.164835stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	77.765613stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.7 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.9075933998897243
+time	77.154004stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9500457875457875
+time	78.148824stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	77.418145stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.82303903547312
+time	77.686972stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.8741888957974058
+time	76.958326stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.2035849823800486
+time	77.764554stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	77.790495stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9750228763153883
+time	77.789604stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.8215539301897854
+time	77.830763stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	77.842340stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.9666869918699188
+time	77.873408stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	77.866550stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9583587980646804
+time	78.430214stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.9166662353347137
+time	77.346586stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	77.807816stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9580604143285247
+time	77.830858stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	76.952997stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.7666666666666666
+time	77.377912stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9666869918699188
+time	77.286552stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.958371460525647
+time	77.243632stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	77.701566stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	77.994880stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	77.360522stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	77.471098stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	77.639057stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.45, 0.65]
+fitness	1.2035849823800486
+time	77.722919stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	77.093024stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.8, 1]
+fitness	1.9750228763153883
+time	77.148091stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.8 	 social_contant 2
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	77.600100stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.35]
+fitness	1.9666869918699188
+time	77.842002stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.25, 0.45]
+fitness	1.9666869918699188
+time	77.473184stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.35, 0.55]
+fitness	1.958371460525647
+time	77.287266stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.45, 0.65]
+fitness	1.9666971916971918
+time	77.147053stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	77.207850stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	77.757655stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.7
+weight_values [0.1, 0.8]
+fitness	1.9666869918699188
+time	78.186477stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.35]
+fitness	1.2035849823800486
+time	77.923978stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.25, 0.45]
+fitness	1.9666971916971918
+time	78.208316stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.35, 0.55]
+fitness	1.725129632453866
+time	77.016272stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.45, 0.65]
+fitness	1.9750228763153883
+time	77.668351stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.6, 0.75]
+fitness	1.9666869918699188
+time	77.171233stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.8, 1]
+fitness	1.2035849823800486
+time	78.040440stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.8
+weight_values [0.1, 0.8]
+fitness	1.9666971916971918
+time	77.790635stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.35]
+fitness	1.9750228763153883
+time	78.189183stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.25, 0.45]
+fitness	1.2035849823800486
+time	78.186463stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.35, 0.55]
+fitness	1.2035849823800486
+time	77.546396stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.45, 0.65]
+fitness	1.9583333333333333
+time	77.284995stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.6, 0.75]
+fitness	1.9750228763153883
+time	77.570147stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.8, 1]
+fitness	1.9666869918699188
+time	77.531754stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 1.9
+weight_values [0.1, 0.8]
+fitness	1.2035849823800486
+time	77.458018stopology: [3, 3]
+num_particles 72
+cognitive_constant 1.9 	 social_contant 2
+weight_values [0.1, 0.35]
+fitness	1.9916717596129363
+time	77.089949s
